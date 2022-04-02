@@ -1,0 +1,14 @@
+.div-center{
+    margin: 0 auto;
+    width: 80vw;
+}
+
+.table-container{
+    padding: 5px;
+    width: 100%;
+    text-align: left;
+}
+
+.table-container td{
+    padding: 5px;
+}
